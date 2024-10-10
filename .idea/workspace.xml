@@ -46,7 +46,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kevinpicon/Documents/Proyecto/jugos-sofi/public/assets",
+    "last_opened_file_path": "/Users/kevinpicon/Documents/Proyecto/jugos-sofi",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -96,6 +96,7 @@
       <workItem from="1726374085952" duration="3000" />
       <workItem from="1726374102330" duration="21740000" />
       <workItem from="1727416186722" duration="326000" />
+      <workItem from="1727922422026" duration="143000" />
     </task>
     <task id="LOCAL-00001" summary="Funcional pero sin adjuntar archivos">
       <option name="closed" value="true" />
